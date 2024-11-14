@@ -1,4 +1,4 @@
-# 🌼 LGM-TASK-3: Extended Iris Flower Classification Project
+# 🌼 Extended Iris Flower Classification Project
 
 This is my third mini project in **Data Science and Machine Learning** as part of the **Let's Grow More Internship** program. In this project, I extended the classic **Iris Flower Classification** by applying a **Decision Tree Classifier** and visualizing the decision-making process of the model graphically.
 
